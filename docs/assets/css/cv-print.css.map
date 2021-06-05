@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "cv-print.css",
+	"sources": [
+		"cv-print.scss"
+	],
+	"sourcesContent": [
+		"@page {\r\n\tsize: a3;\r\n}\r\n\r\nbody {\r\n\tmin-width: 992px;\r\n}\r\n\r\na {\r\n\ttext-decoration: none;\r\n}\r\n\r\n.pf-page-wrapper {\r\n\tgrid-template-rows: auto;\r\n}\r\n\r\n.pf-page-header {\r\n\tdisplay: none;\r\n}\r\n\r\n.pf-page-content {\r\n\tgrid-template-areas:\r\n\t\t\"cm\";\r\n}\r\n\r\n.pf-page-content-header {\r\n\tdisplay: none;\r\n}\r\n\r\n.pf-page-content-main {\r\n\tpadding: 0;\r\n}\r\n\r\n.pf-cv-wrapper {\r\n\tpadding-top: 0;\r\n\tpadding-bottom: 0;\r\n\tborder: 0;\r\n\tbox-shadow: none;\r\n}\r\n\r\n.pf-link-arrow {\r\n\t&:after {\r\n\t\tcontent: \"\";\r\n\t}\r\n}\r\n\r\n.pf-cv-download-options {\r\n\tdisplay: none;\r\n}\r\n\r\n.pf-page-footer {\r\n\tdisplay: none;\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,KAAK,CACJ,IAAI,CAAE,EAAE,CAGT,AAAA,IAAI,AAAC,CACJ,SAAS,CAAE,KAAK,CAChB,AAED,AAAA,CAAC,AAAC,CACD,eAAe,CAAE,IAAI,CACrB,AAED,AAAA,gBAAgB,AAAC,CAChB,kBAAkB,CAAE,IAAI,CACxB,AAED,AAAA,eAAe,AAAC,CACf,OAAO,CAAE,IAAI,CACb,AAED,AAAA,gBAAgB,AAAC,CAChB,mBAAmB,CAClB,IAAI,CACL,AAED,AAAA,uBAAuB,AAAC,CACvB,OAAO,CAAE,IAAI,CACb,AAED,AAAA,qBAAqB,AAAC,CACrB,OAAO,CAAE,CAAC,CACV,AAED,AAAA,cAAc,AAAC,CACd,WAAW,CAAE,CAAC,CACd,cAAc,CAAE,CAAC,CACjB,MAAM,CAAE,CAAC,CACT,UAAU,CAAE,IAAI,CAChB,AAED,AACC,cADa,CACX,KAAK,AAAC,CACP,OAAO,CAAE,EAAE,CACX,AAGF,AAAA,uBAAuB,AAAC,CACvB,OAAO,CAAE,IAAI,CACb,AAED,AAAA,eAAe,AAAC,CACf,OAAO,CAAE,IAAI,CACb"
+}

@@ -1,0 +1,9 @@
+title: Perfolio
+
+menu:
+  - title: Home
+    url: /
+  - title: Resume
+    url: /cv
+  - title: Blog
+    url: /blog
