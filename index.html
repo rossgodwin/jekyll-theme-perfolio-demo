@@ -4,6 +4,15 @@ pagination:
   enabled: true
 ---
 
+{% capture _header_content %}
+	<p>
+		<b>Perfolio</b> is a simple Jekyll theme that utilizes css grid layout for a responsive website designed for a personal 
+		portfolio that includes built in SEO, blog list component, a professionally styled resume and the ability 
+		to include multiple photo gallery collections.
+	</p>
+{% endcapture %}
+{% include snippets/layout/page/page-content-header.html title='Introduction' content=_header_content %}
+
 <section class="pf-page-content-main">
 	{% include snippets/layout/articles/articles-paging-list.html %}
 </section>

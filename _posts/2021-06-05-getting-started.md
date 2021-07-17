@@ -6,36 +6,36 @@ tags: [jekyll, jekyll theme, get started]
 include-highlightjs: yes
 ---
 
-### Prerequisites
+# Prerequisites
 
 Follow the [Jekyll Docs](https://jekyllrb.com/docs/installation){:target="_blank"} to complete the installation of Ruby, RubyGems, Jekyll and [Bundler](https://bundler.io){:target="_blank"}.
 
-### Installation
+# Installation
 
 At the time, this is not available via RubyGems
 
-#### Download the Gem
+## Download the Gem
 
 
 
 
-#### Include
+## Include
 
 theme: jekyll-theme-perfolio
 
-### Modify or Run Perfolio Locally
+# Modify or Run Perfolio Locally
 
-#### Get Source
+## Get Source
 
 Download or [Fork](https://github.com/rossgodwin/jekyll-theme-perfolio/fork){:target="_blank"} Perfolio.
 
-#### Build Gem
+## Build Gem
 
 This is optional but if you want to modify the code and rebuil the gem, run the following.
 
 $ gem build jekyll-theme-perfolio
 
-#### Run the Demo Locally
+## Run the Demo Locally
 
 Make sure to have git installed
 
@@ -53,11 +53,11 @@ Open a browser and go to the following url.
 
 http://127.0.0.1:4000
 
-### Demo
+# Demo
 
 Visit ...
 
-### Deploy
+# Deploy
 
 When you are ready to deploy
 To docs folder

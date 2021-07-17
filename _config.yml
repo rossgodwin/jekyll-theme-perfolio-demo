@@ -8,6 +8,8 @@ lang: en
 # Analytics
 google_analytics_measurement_id: ''
 
+# Jekyll configuration
+show_drafts: false
 exclude:
   - .bundle
   - .jekyll-cache
@@ -56,7 +58,8 @@ defaults:
       path: _posts
       type: posts
     values:
-      permalink: /blog/:year/:month/:day/:title:output_ext
+      #permalink: /blog/:year/:month/:day/:title:output_ext
+      permalink: /posts/:title/
 
 # Plugin: Pagination (jekyll-paginate-v2)
 pagination:
