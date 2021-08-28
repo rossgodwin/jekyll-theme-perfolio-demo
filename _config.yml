@@ -1,5 +1,4 @@
 # Site wide configuration
-theme: jekyll-theme-perfolio
 destination: docs
 url: 'https://rossgodwin.github.io'
 baseurl: '/jekyll-theme-perfolio-demo'
@@ -58,7 +57,6 @@ defaults:
       path: _posts
       type: posts
     values:
-      #permalink: /blog/:year/:month/:day/:title:output_ext
       permalink: /posts/:title/
 
 # Plugin: Pagination (jekyll-paginate-v2)

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: perfolio/article
 title: Getting Started
 description: The following post demonstrates syntax for incorporating static assets and jekyll plugins in to a blog post or page.
 tags: [jekyll, jekyll theme, get started]

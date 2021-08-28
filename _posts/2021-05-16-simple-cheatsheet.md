@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: perfolio/article
 title: Simple Jekyll Cheatsheet
 description: The following post demonstrates syntax for incorporating static assets and jekyll plugins in to a blog post or page.
 tags: [jekyll, markdown, cheatsheet]
@@ -45,7 +45,7 @@ export  $initHighlight;
 {% capture _quote %}
 	You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
 {% endcapture %}
-{% include snippets/components/quote.html quote=_quote quote_by="John Romero" %}
+{% include perfolio/components/quote.html quote=_quote quote_by="John Romero" %}
 
 #### Embed a Tweet
 

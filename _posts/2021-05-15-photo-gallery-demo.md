@@ -1,14 +1,14 @@
 ---
-layout: article
+layout: perfolio/article
 title: Photo Gallery Demo
 tags: [jekyll, gallery, lightgallery, justifiedgallery]
 
 head-csss:
-  - assets/lib/justifiedgallery/css/justifiedGallery.min.css
-  - assets/lib/lightgallery/css/lightgallery.min.css
+  - assets/perfolio/lib/justifiedgallery/css/justifiedGallery.min.css
+  - assets/perfolio/lib/lightgallery/css/lightgallery.min.css
 body-footer-scripts:
-  - assets/lib/justifiedgallery/js/jquery.justifiedGallery.min.js
-  - assets/lib/lightgallery/js/lightgallery-all.min.js
+  - assets/perfolio/lib/justifiedgallery/js/jquery.justifiedGallery.min.js
+  - assets/perfolio/lib/lightgallery/js/lightgallery-all.min.js
 galleries:
   - id: dynamic-demo
     type: dynamic
@@ -45,4 +45,4 @@ This photo gallery utilizes [lightGallery](https://www.lightgalleryjs.com){:targ
 [lightGallery thumbnails demo](https://www.lightgalleryjs.com/demos/thumbnails){:target="_blank"}
 
 {% assign _gallery = page.galleries[1] %}
-{% include snippets/components/gallery/thumbnails.html gallery=_gallery %}
+{% include perfolio/components/gallery/thumbnails.html gallery=_gallery %}

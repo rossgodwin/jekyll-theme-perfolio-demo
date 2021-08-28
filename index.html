@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: perfolio/page
 pagination:
   enabled: true
 ---
@@ -11,8 +11,8 @@ pagination:
 		to include multiple photo gallery collections.
 	</p>
 {% endcapture %}
-{% include snippets/layout/page/page-content-header.html title='Introduction' content=_header_content %}
+{% include perfolio/page/body/page-content-header.html title='Introduction' content=_header_content %}
 
 <section class="pf-page-content-main">
-	{% include snippets/layout/articles/articles-paging-list.html %}
+	{% include perfolio/components/list/articles-paging-list.html %}
 </section>
