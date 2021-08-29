@@ -34,13 +34,13 @@ galleries:
 Demonstration for how this theme can include pictures in to a blog post or page.<!--more-->
 This photo gallery utilizes [lightGallery](https://www.lightgalleryjs.com){:target="_blank"} for viewing photos and [Justified Gallery](http://miromannino.github.io/Justified-Gallery){:target="_blank"} for rendering thumbnails.
 
-#### lightGallery - Dynamic Mode
+# lightGallery - Dynamic Mode
 
 [lightGallery dynamic mode demo](https://www.lightgalleryjs.com/demos/dynamic-mode){:target="_blank"}
 
 <a class="pf-button-primary" href="#" id="dynamic-demo">Launch Gallery</a>
 
-#### lightGallery - Thumbnails
+# lightGallery - Thumbnails
 
 [lightGallery thumbnails demo](https://www.lightgalleryjs.com/demos/thumbnails){:target="_blank"}
 
