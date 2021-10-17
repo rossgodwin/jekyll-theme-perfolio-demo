@@ -47,6 +47,11 @@ plugins:
 
 defaults:
   - scope:
+      path: ""
+    values:
+      include-seo: true
+      include-seo-og: false
+  - scope:
       path: docs/*
     values:
       sitemap: false
