@@ -1,0 +1,29 @@
+jobs:
+  - company:
+      name: Rosewood Apartments
+    positions:
+      - title: Property Manager
+        duration: 08-2016 to Present
+    description:
+      Since joining the Rosewood Apartments staff along with the help of our proactive team I have seen a decrease in 
+      criminal activity, an astounding level of retention, a raise in occupancy as well as on time rent payments. I 
+      manage all of the leasing, collections, maintenance staff and resident issues.
+  - company:
+      name: Sunset Village Apartments
+    positions:
+      - title: Community Assistant Manager
+        duration: 02-2015 to 08-2016
+    description:
+      Responsible for ensuring the efficient operation of the property. I execute all tasks associated with the operation 
+      of the property including leasing, collections, resident services, bill payments and actions to ensure compliance 
+      with all applicable laws and company policies.
+  - company:
+      name: McCoy Construction Company
+    positions:
+      - title: Property Manager
+        duration: 08-2012 to 02-2015
+    description:
+      Hired for ability to meet sales goals, sell to customer needs, and closing capabilities. While at McCoy Construction 
+      Company I accomplished financial objectives by collecting rents, paying bills; forecasting requirements; preparing 
+      an annual budget; scheduling expenditures; analyzing variances in order to initiate corrective action. I efficiently 
+      managed the daily workings of properties from apartments to family homes.

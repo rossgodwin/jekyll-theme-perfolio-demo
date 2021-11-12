@@ -1,0 +1,22 @@
+title: Community Manager
+
+intro-heading-text: How I Add Value
+intro:
+  Proven Community Manager with intuitive leasing and property marketing knowledge of family as well as student housing 
+  properties. Well capable of maintaining working order of facilities and enforcing community policies.
+
+recommendations-heading-text: Recommendations
+
+jobs-heading-text: Where I Have Worked
+
+accomplishments-heading-text: Key Accomplishments
+
+education-heading-text: Education
+
+version:
+  pdf:
+    display-text: PDF Version
+    internal-url: assets/cv/cv.pdf
+  text:
+    display-text: Text Version
+    internal-url: assets/cv/cv.txt
